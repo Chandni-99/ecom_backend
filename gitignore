@@ -1,0 +1,65 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.env
+env
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test and coverage
+.coverage
+.coverage.*
+nosetests.xml
+pytest.xml
+test.xml
+*.cover
+
+# Pytest
+.cache
+*.log
+*.db
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*.DS_Store
+*.log
+*.py[cod]
+
+# Other
+*.local
+*.pot
+*.po
+*.pot~
+*.mo
+*.pyc
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
